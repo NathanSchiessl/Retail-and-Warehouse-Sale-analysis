@@ -19,8 +19,9 @@ Key visualizations generated:
 - **Monthly Retail Sales by Item Type**
 - **Total Sales by Supplier**
 
+
+
 ## Visualizations
-- Sales Trend Analysis
-![Sales Trend](https://raw.githubusercontent.com/NathanSchiessl/Retail-and-Warehouse-Sale-analysis/main/Visualizations/sales_trends.png)
+![Sales Trend](Retail-and-wherehouse-Sale-analysis/Visualizations/sales_trends.png)
 
 For further details, please refer to the notebook.
