@@ -22,6 +22,7 @@ Key visualizations generated:
 
 
 ## Visualizations
+- Sales Trend
 ![Sales Trend](Retail-and-wherehouse-Sale-analysis/Visualizations/sales_trends.png)
 
 For further details, please refer to the notebook.
