@@ -30,3 +30,5 @@ Key visualizations generated:
 - **Sales Trend**: The analysis of retail sales over time reveals consistent sales growth during a nine month period, highlighting peak sales around key retail months such as November and December. These months correlate with high seasonal demand, such as the holiday shopping season, demonstrating the impact of seasonality on retail performance.
 
 - **Top Suppliers Sales**: The top-performing suppliers contribute a significant portion of total sales, with a clear concentration among the leading few. This suggests that a small number of suppliers play a disproportionately large role in driving revenue, making supplier management critical for optimizing sales performance.
+
+![Sales Trend](Retail-and-wherehouse-Sale-analysis/Visualizations/sales_trends.png)
