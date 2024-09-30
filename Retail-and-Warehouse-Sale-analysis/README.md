@@ -22,8 +22,8 @@ Key visualizations generated:
 
 ## Visualizations
 <p align="center">
-  <img src="Retail-and-Warehouse-Sale-analysis/Visualizations/sales_trends.png" alt="Sales Trend" width="45%" />
-  <img src="Retail-and-Warehouse-Sale-analysis/Visualizations/top_suppliers_sales.png" alt="Top Suppliers Sales" width="45%" />
+  <img src="Visualizations/sales_trends.png" alt="Sales Trend" width="45%" />
+  <img src="Visualizations/top_suppliers_sales.png" alt="Top Suppliers Sales" width="45%" />
 </p>
 
 ### Key Conclusions:
