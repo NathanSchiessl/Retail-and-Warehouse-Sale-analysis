@@ -31,4 +31,3 @@ Key visualizations generated:
 
 - **Top Suppliers Sales**: The top-performing suppliers contribute a significant portion of total sales, with a clear concentration among the leading few. This suggests that a small number of suppliers play a disproportionately large role in driving revenue, making supplier management critical for optimizing sales performance.
 
-![Sales Trend](Retail-and-Warehouse-Sale-analysis\Visualizations\sales_trends.png)
