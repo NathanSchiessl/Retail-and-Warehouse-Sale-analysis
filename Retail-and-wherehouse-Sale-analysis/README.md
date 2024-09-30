@@ -22,8 +22,8 @@ Key visualizations generated:
 
 ## Visualizations
 <p align="center">
-  <img src="Retail-and-wherehouse-Sale-analysis/Visualizations/sales_trends.png" alt="Sales Trend" width="45%" />
-  <img src="Retail-and-wherehouse-Sale-analysis/Visualizations/top_suppliers_sales.png" alt="Top Suppliers Sales" width="45%" />
+  <img src="Retail-and-warehouse-Sale-analysis/Visualizations/sales_trends.png" alt="Sales Trend" width="45%" />
+  <img src="Retail-and-warehouse-Sale-analysis/Visualizations/top_suppliers_sales.png" alt="Top Suppliers Sales" width="45%" />
 </p>
 
 ### Key Conclusions:
@@ -31,4 +31,4 @@ Key visualizations generated:
 
 - **Top Suppliers Sales**: The top-performing suppliers contribute a significant portion of total sales, with a clear concentration among the leading few. This suggests that a small number of suppliers play a disproportionately large role in driving revenue, making supplier management critical for optimizing sales performance.
 
-![Sales Trend](Retail-and-wherehouse-Sale-analysis/Visualizations/sales_trends.png)
+
